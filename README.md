@@ -1,4 +1,12 @@
-# Weather
+# Simple Weather App
+We will create a simple weather application in Angular. The user selects a city and the current weather conditions,pressure,humidity and temperature are pulled from OpenWeatherMap.
+The purpose of the application is to showcase Angular’s main capabilities. So, we will keep the interface as simple as possible. We can make it pretty later.
+
+to see this please go to this link
+
+https://drive.google.com/file/d/1uC_Jz6cMwjVYOImSFJNDCAJKmUSHIbA8/view?usp=sharing
+
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.14.
 
